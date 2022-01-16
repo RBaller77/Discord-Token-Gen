@@ -16,7 +16,7 @@ This is an old Discord token generator I have had since April figured I should r
 
 ## Proof Gen Works
 
-https://media.giphy.com/media/APOlaUZ0w81NQ7Z4Au/giphy.gif
+https://images-ext-1.discordapp.net/external/PPwK5URh3XfdrRIT3EaS1lZRbhV78ytip-Tv9uaHbmA/%3Fcid%3D73b8f7b1c8f49ca71c9bc5201379a1ee3a117443108f5d08%26rid%3Dgiphy.mp4%26ct%3Dg/https/media4.giphy.com/media/APOlaUZ0w81NQ7Z4Au/giphy.mp4
 
 
 ## Requirements 

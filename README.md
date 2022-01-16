@@ -18,6 +18,10 @@ This is an old Discord token generator I have had since April figured I should r
 
 
 
+https://user-images.githubusercontent.com/79893517/149645595-54ce71fa-d374-4fd1-a73b-05f4ac3a0abe.mp4
+
+
+
 
 ## Requirements 
 
